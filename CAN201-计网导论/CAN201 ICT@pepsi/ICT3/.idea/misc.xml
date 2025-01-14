@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.8.10 (sftp://can201@192.168.56.1:22/usr/bin/python3)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.10 (sftp://can201@192.168.56.1:22/usr/bin/python3)" project-jdk-type="Python SDK" />
+</project>
