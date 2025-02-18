@@ -1,0 +1,25 @@
+// 例如：0xFFFFFF表示白色，0x000000表示黑色，0xFF0000表示红色
+unsigned int pixelArt[22][14] = {
+        {tS, tS, tS, tS, tS, tS, dR, lR, lR, lR, tS, tS, tS, tS},
+        {tS, tS, tS, tS, dR, dR, dR, lR, lR, lR, lR, tS, tS, tS},
+        {tS, tS, tS, dR, dR, lR, lR, lR, lR, lR, lR, lR, tS, tS},
+        {tS, tS, tS, dR, lR, lR, bW, bW, bW, bW, bW, bW, bW, bW},
+        {tS, tS, hC, hC, hC, dS, hC, dS, hC, dS, hC, hC, tS, tS},
+        {tS, tS, tS, hC, hC, lS, dS, lS, lS, lS, lS, hC, tS, tS},
+        {tS, tS, hC, hC, dS, lS, lS, eC, lS, lS, eC, tS, tS, tS},
+        {tS, tS, tS, hC, dS, lS, lS, eC, lS, lS, eC, tS, tS, tS},
+        {tS, tS, tS, dS, hC, hC, hC, hC, hC, hC, hC, tS, tS, tS},
+        {tS, tS, dG, dS, dS, lS, lS, lS, lS, lS, lS, tS, tS, tS},
+        {tS, tS, lB, lG, dB, dB, lB, bW, bW, bW, lB, lG, tS, tS},
+        {tS, dB, lB, dB, lG, lB, lB, bW, bW, bW, lB, lG, tS, tS},
+        {dB, lB, dG, dB, lG, lB, lB, bW, bW, bW, lB, dB, tS, tS},
+        {lB, tS, dG, lG, dB, dB, lB, bW, bW, bW, lB, dB, dS, lS},
+        {dS, tS, dG, hC, hC, hC, hC, hC, hC, hC, hC, tS, tS, tS},
+        {lS, tS, tS, bL, bL, bL, bL, bL, bL, bL, bL, tS, tS, tS},
+        {tS, tS, tS,  bL, bL, bL, bL, bL, bL, bL, bL, tS, tS, tS},
+        {tS, tS, tS,  bL, bL, bL, bL, bL, bL, bL, bL, tS, tS, tS},
+        {tS, tS, tS,  bL, bL, bL, tS, tS, bL, bL, bL, tS, tS, tS},
+        {tS, tS, tS,  bL, bL, tS, tS, tS, bL, bL, tS, tS, tS, tS},
+        {tS, tS, tS,  bL, tS, tS, tS, tS, bL, tS, tS, tS, tS, tS},
+        {tS, tS, tS,  dR, tS, tS, tS, tS, dR, tS, tS, tS, tS, tS}
+};
